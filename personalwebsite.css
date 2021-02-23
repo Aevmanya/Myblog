@@ -85,3 +85,13 @@ p{
    text-align: center;
    font-size: 42px;
 }
+html{
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color: aquamarine;
+    
+}
